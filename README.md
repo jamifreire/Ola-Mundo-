@@ -3,4 +3,4 @@
 
  Repositório criado no curso Curso em vídeo do Guanabara!
  
- Essa linah eu adicionei no site!
+ Essa linha eu adicionei no site!
