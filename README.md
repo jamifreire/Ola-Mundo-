@@ -63,3 +63,6 @@ if ......
 elseif....
 
 ```
+
+Para emojis se usam dois pontos, seguido do nome do emoji. Exemplo :hand
+
