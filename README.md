@@ -64,5 +64,5 @@ elseif....
 
 ```
 
-Para emojis se usam dois pontos, seguido do nome do emoji. Exemplo :hand
+Para emojis se usam dois pontos, seguido do nome do emoji. Exemplo :hand: . ps: só funciona em issues. Para ver o código de todos os emojis, acesse este [repositorio](https://github.com/ikatyang/emoji-cheat-sheet)
 
