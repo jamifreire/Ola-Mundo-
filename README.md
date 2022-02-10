@@ -64,8 +64,9 @@ elseif....
 
 ```
 
-Para emojis se usam dois pontos, nome do emoji e dois pontos. Exemplo :hand:  Para ver o código de todos os emojis, acesse este [repositorio](https://github.com/ikatyang/emoji-cheat-sheet)
+Para emojis se usam dois pontos, nome do emoji e dois pontos. Exemplo :hand:  Para ver o código de todos os emojis, acesse este [repositório](https://github.com/ikatyang/emoji-cheat-sheet)
 Ps: para inserir emojis no título de issues, é necessário acessar esse [site](https://emojipedia.org/), copiar o copyandpaste do emoji, e cola na caixa de texto do título.
 
 #### PS: O GUANABARA TEM UM PDF COM O GUIA VISUAL DA LINGUAGEM DE MARCAÇÃO MARKDOWN! &lt;3
+Lá, você acha conteúdo adicional.
 
