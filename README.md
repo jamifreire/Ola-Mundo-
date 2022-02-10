@@ -46,4 +46,9 @@ Para inserir imagens:
 Para inserir links: o mesmo, sem o ponto de !. ex:
 [Acesse meu instagram](https://instagram.com/jamifreire)
 
-Para criar uma tabela: se usam pipes  para separar as colunas e 3 tracinhos e o pipe  para as linhas.
+Para criar uma tabela: se usam pipes  para separar as colunas e 3 tracinhos e o pipe  para as linhas. Segue exemplo:
+Coluna 1 | Coluna 2 | Coluna 3
+---|---|---|
+Nome | Idade | Cidade
+---|---|---|
+Jamille | 27 | Rio de Janeiro
