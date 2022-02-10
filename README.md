@@ -64,5 +64,6 @@ elseif....
 
 ```
 
-Para emojis se usam dois pontos, seguido do nome do emoji. Exemplo :hand: . ps: só funciona em issues. Para ver o código de todos os emojis, acesse este [repositorio](https://github.com/ikatyang/emoji-cheat-sheet)
+Para emojis se usam dois pontos, nome do emoji e dois pontos. Exemplo :hand:  Para ver o código de todos os emojis, acesse este [repositorio](https://github.com/ikatyang/emoji-cheat-sheet)
+Ps: para inserir emojis no título de issues, é necessário acessar esse [site](https://emojipedia.org/), copiar o copyandpaste do emoji, e cola na caixa de texto do título.
 
