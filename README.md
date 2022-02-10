@@ -55,3 +55,11 @@ Ana | 30 | Fortaleza
 Terminou a tabela
 
 Para mostrar um comando, se usa o texto entre crases. Fica um fundinho cinza e a fonte monoespaçada, dessa forma: `document.getELementById()`
+
+Para trechos de programas se usam 3 crases, dessa forma: 
+``` 
+num = int(input(....))
+if ......
+elseif....
+
+```
