@@ -51,3 +51,7 @@ Nome | Idade | Cidade
 ---|---|---|
 Jamille | 27 | Rio de Janeiro
 Ana | 30 | Fortaleza
+
+Terminou a tabela
+
+Para mostrar um comando, se usa o texto entre crases unicas. Fica um fundinho cinza e a fonte monoespaçada, dessa forma: 'document.getELementById()'
