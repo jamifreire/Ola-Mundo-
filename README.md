@@ -39,3 +39,9 @@ Lista de tarefas: traço e colchetes com um espaço no meio, e se quiser marcar 
 - [ ] Tarefa
 - [x] Tarefa
 - [x] Tarefa
+
+Para inserir imagens:
+* Em issues, basta arrastar a imagem para a base da caixa de texto. É importante lembrar que devem ser usadas imagens de até 400pixels de largura, sempre no formato pnj ou jpg basicamente é um sinal de ! com a descrição da imagem entre colchetes seguido do link da imagem entre parenteses.
+
+Para inserir links: o mesmo, sem o ponto de !. ex:
+[Acesse meu instagram](https://instagram.com/jamifreire)
