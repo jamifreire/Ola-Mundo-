@@ -5,15 +5,18 @@
  
  Essa linha eu adicionei no site!
 
-# Título 1: Aula Curso em Vídeo Guanabara
+# Título: Aula Curso em Vídeo Guanabara
 ---
-## Titulo 2: Guia de Linguagem Markdown
+## Titulo: Guia de Linguagem Markdown
 ---
 # Título 3
 ---
 Estou aprendendo linguagem **Markdown** no Curso em Vídeo de Git e GItHub!
+
+Essa linguagem de marcação. Foi criada por Gruber para ser parecida com o HTML, porém mais fácil de se ler, de alta _readability_. + é fácil de ser convertida para HTML.
 Podemos __*misturar*__ marcações.
 
+Onde ela é aplicada? No README.md ou qualquer arquivo markdown, em issues ou pullrequests. 
 Lista numerada:
 1. Primeiro item
 1. Segundo item
